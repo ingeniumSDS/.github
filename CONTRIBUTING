@@ -1,0 +1,21 @@
+# Guía de Contribución - INGENIUM SDS
+
+¡Gracias por contribuir a nuestros proyectos! Seguimos estos estándares para mantener la calidad de nuestras soluciones.
+
+## 📌 Estándares de Código
+1. **Arquitectura**: Todo desarrollo debe seguir patrones establecidos (Arquitectura Hexagonal, MVC o MVVM).
+2. **Documentación**: El código debe estar debidamente comentado y acompañado de manuales técnicos.
+3. **Calidad**: Antes de realizar un Merge, asegúrate de que el código sea escalable y seguro.
+
+## 🚀 Flujo de Trabajo
+* **Ramas**: Usar nombres descriptivos como `feature/nombre-funcion` o `fix/error-identificado`.
+* **Commits**: Mensajes claros que describan el cambio realizado.
+* **Diseño**: Toda interfaz debe ser validada previamente en Figma antes de su codificación.
+
+## 🛠️ Herramientas Sugeridas
+* **IDE**: IntelliJ IDEA, VS Code, Android Studio.
+* **API**: Postman, ngrok.
+* **Consola**: Warp.
+
+---
+**INGENIUM: Software Development Solutions**
