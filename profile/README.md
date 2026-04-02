@@ -1,4 +1,4 @@
-# INGENIUM | Software Development Solutions 🚀
+# INGENIUM | Software Development Solutions 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
